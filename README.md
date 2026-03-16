@@ -147,6 +147,7 @@ Role Name:
 EC2-SecretsManager-Role
 ```
 Output:
+
 ![iam-role](images/iam-role.png)
 ---
 
@@ -160,6 +161,7 @@ Attach:
 EC2-SecretsManager-Role
 ```
 Output:
+
 ![Role-attach](images/role-attach-ec2.png)
 ---
 
